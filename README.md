@@ -1,6 +1,8 @@
 # MISM6202
 
-This repository contains the datasets and sample Jupyter notebooks used in the live sessions. The folder structure is setup as follows:
+This repository contains the datasets and sample Jupyter notebooks used in the live sessions of MISM 6202. All datasets are provided in the data directory. The notebooks are placed within the appropriate folder for each week.  You should work from the blank directory and follow along during the live sessions.  For your reference, a possible solution is provided for each week in the solution folder.
+
+The directory structure is as follows:
 
 ```
 |-- 1_blank
@@ -15,5 +17,3 @@ This repository contains the datasets and sample Jupyter notebooks used in the l
   v
 |-- data
 ```
-
-For each week you should follow along in class using the blank notebook from the appropriate week number.  You can also refer to the solution once you've completed the assignment.
