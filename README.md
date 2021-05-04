@@ -1,6 +1,10 @@
 # MISM6202
 
-This repository contains the datasets and sample Jupyter notebooks used in the live sessions of MISM 6202. All datasets are provided in the data directory. The notebooks are placed within the appropriate folder for each week.  You should work from the blank directory and follow along during the live sessions.  For your reference, a possible solution is provided for each week in the solution folder.
+This repository contains the materials for MISM 6202, Foundations for Data Analysis class.  The ```1_class_prep``` folder is organized by week and each weekly folder contains the Live Session PPT deck, the blank Jupyter notebook that will be used in class, and the blank Jupyter notebook for the LoanTronic project.
+
+All data is contained in the ```data``` folder.
+
+Completed versions of the live session Jupyter notebooks are provided for each week in the ```2_post_class``` folder.
 
 The directory structure is as follows:
 
