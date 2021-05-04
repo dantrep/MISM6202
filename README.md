@@ -5,12 +5,12 @@ This repository contains the datasets and sample Jupyter notebooks used in the l
 The directory structure is as follows:
 
 ```
-|-- 1_blank
+|-- 1_class_prep
   |-- week_1
   |-- week_2
   :
   v
-|-- 2_solution
+|-- 2_post_class
   |-- week_1
   |-- week_2
   :
