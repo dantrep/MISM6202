@@ -1,0 +1,382 @@
+employee_id,title,last,first,manager_id,function,department,location,age,sex,ethnicity,employment_status,tenure,count,tenure_id
+343,CEO,Duran,Veronica,,CEO,Leadership,"Mountain View, CA",35 - 44,F,hispanic,Full time,1 to less than 2 years,1,2
+203,Administrative Assistant,Thompson,Anne,343,CEO,Leadership,"Mountain View, CA",45 - 54,F,white,Full time,2 to less than 4 years,1,3
+11,VP Engineering,Xiong,Steven,343,CEO,Engineering,"Mountain View, CA",35 - 44,M,asian,Full time,4 to less than 6 years,1,4
+707,Administrative Assistant,Sanchez,Carolyn,11,CEO,Engineering,"Mountain View, CA",45 - 54,F,hispanic,Full time,less than 6 months,1,0
+417,Chief Technology Officer,Deleon,Amanda,343,CEO,Advanced Technology,"Mountain View, CA",35 - 44,F,asian,Full time,1 to less than 2 years,1,2
+484,Administrative Assistant,Vang,Portia,417,CEO,Advanced Technology,"Mountain View, CA",25 - 34,F,asian,Full time,1 to less than 2 years,1,2
+18,VP of Loan Operations,Myers,Tamara,343,CEO,Loan Operations,"New York, NY",45 - 54,F,white,Full time,4 to less than 6 years,1,4
+737,Administrative Assistant,Jones,Kathleen,18,CEO,Loan Operations,"New York, NY",25 - 34,F,mixed_race,Full time,less than 6 months,1,0
+736,Chief Financial Officer,Anderson,Kevin,343,CEO,Finance & Admin,"Mountain View, CA",55 - 64,M,white,Full time,less than 6 months,1,0
+696,Administrative Assistant,Lopez,Judith,736,CEO,Finance & Admin,"Mountain View, CA",25 - 34,F,hispanic,Full time,less than 6 months,1,0
+70,VP of Marketing,Mitchell,Douglas,343,CEO,Marketing,"New York, NY",45 - 54,M,white,Full time,4 to less than 6 years,1,4
+508,Administrative Assistant,Stevenson,Georgia,70,CEO,Marketing,"New York, NY",25 - 34,F,white,Full time,1 to less than 2 years,1,2
+82,VP of Product,Moon,John,343,CEO,Product,"Mountain View, CA",45 - 54,M,asian,Full time,4 to less than 6 years,1,4
+388,Administrative Assistant,Ryan,Kayla,82,CEO,Product,"Mountain View, CA",25 - 34,F,white,Full time,1 to less than 2 years,1,2
+225,VP of Lender Relations,Wang,Michael,343,CEO,Loan Operations,"New York, NY",35 - 44,M,asian,Full time,2 to less than 4 years,1,3
+45,Administrative Assistant,Rice,Elisha,225,CEO,Loan Operations,"New York, NY",35 - 44,F,white,Full time,4 to less than 6 years,1,4
+260,Chief Compliance Officer,Sanders,Cortney,343,CEO,Compliance,"Mountain View, CA",35 - 44,M,white,Full time,2 to less than 4 years,1,3
+454,Administrative Assistant,Howard,Victoria,260,CEO,Compliance,"Mountain View, CA",65+,F,african_american,Full time,1 to less than 2 years,1,2
+68,Director of Engineering,Liu,Dakota,11,Engineering,Back End,"Mountain View, CA",25 - 34,M,asian,Full time,4 to less than 6 years,1,4
+14,Engineer,Nguyen,Terri,68,Engineering,Back End,"Mountain View, CA",45 - 54,F,asian,Full time,4 to less than 6 years,1,4
+326,Director of Engineering,Chan,Robert,11,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+149,Director of Engineering,Carroll,Sean,11,Engineering,Front End,"Mountain View, CA",45 - 54,M,white,Full time,2 to less than 4 years,1,3
+465,Engineer,Jones,Nathan,149,Engineering,Front End,"Mountain View, CA",18 - 24,M,white,Full time,1 to less than 2 years,1,2
+580,Director of Engineering,Truong,Iesha,11,Engineering,Security,"Mountain View, CA",45 - 54,F,asian,Full time,1 to less than 2 years,1,2
+366,Director of Engineering,Santos,Morgan,11,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+455,Engineer,Lin,Taylor,366,Engineering,Full Stack,"Mountain View, CA",25 - 34,F,asian,Full time,1 to less than 2 years,1,2
+445,Chief Engineer,Davis,Jesse,366,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+206,Engineer,Castillo,Jason,366,Engineering,Full Stack,"Mountain View, CA",45 - 54,M,mixed_race,Full time,2 to less than 4 years,1,3
+288,Chief Engineer,Lewis,David,366,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,white,Full time,2 to less than 4 years,1,3
+583,Engineer,Young,Brian,366,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+419,Engineer,Hunt,Tanner,366,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,white,Full time,1 to less than 2 years,1,2
+482,Senior Engineer,Padilla,Leonard,366,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,mixed_race,Full time,1 to less than 2 years,1,2
+210,Senior Engineer,Mercado,Patrick,366,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,hispanic,Part time,2 to less than 4 years,1,3
+246,Chief Architect,Meyer,Michael,417,Advanced Technology,Product Architechture,"Mountain View, CA",35 - 44,M,white,Full time,2 to less than 4 years,1,3
+730,Product Architect,Foster,Kristopher,246,Advanced Technology,Product Architechture,"Mountain View, CA",25 - 34,M,mixed_race,Full time,less than 6 months,1,0
+735,Product Architect,Johnson,John,246,Advanced Technology,Product Architechture,"Mountain View, CA",45 - 54,M,white,Part time,less than 6 months,1,0
+109,Product Architect,Tran,Terry,246,Advanced Technology,Product Architechture,"Mountain View, CA",45 - 54,M,asian,Full time,4 to less than 6 years,1,4
+578,Senior Product Architect,Kim,Robert,246,Advanced Technology,Product Architechture,"Mountain View, CA",35 - 44,M,asian,Part time,1 to less than 2 years,1,2
+125,Product Architect,Moon,Patrick,246,Advanced Technology,Product Architechture,"Mountain View, CA",35 - 44,M,asian,Full time,2 to less than 4 years,1,3
+528,Senior Product Architect,Joseph,Katrina,246,Advanced Technology,Product Architechture,"Mountain View, CA",55 - 64,F,asian,Full time,1 to less than 2 years,1,2
+594,Product Architect,Singh,Emmanuel,246,Advanced Technology,Product Architechture,"Mountain View, CA",25 - 34,M,asian,Full time,6 months to less than 1 year,1,1
+600,Director of VA Loans,Hernandez,Isaac,18,Loan Operations,VA Loans,"New York, NY",45 - 54,M,mixed_race,Full time,6 months to less than 1 year,1,1
+316,Loan Officer,Garcia,Kelley,600,Loan Operations,VA Loans,"New York, NY",45 - 54,F,hispanic,Part time,2 to less than 4 years,1,3
+105,Loan Officer,Adams,Sheila,600,Loan Operations,VA Loans,"New York, NY",45 - 54,F,african_american,Full time,4 to less than 6 years,1,4
+154,Loan Officer,Acosta,Patrick,600,Loan Operations,VA Loans,"New York, NY",45 - 54,M,hispanic,Part time,2 to less than 4 years,1,3
+335,Director of FHA Loans,Cook,Noel,18,Loan Operations,FHA Loans,"New York, NY",18 - 24,M,african_american,Part time,1 to less than 2 years,1,2
+593,Loan Officer,Nguyen,Brian,335,Loan Operations,FHA Loans,"New York, NY",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+304,Loan Officer,Wilson,Mariah,335,Loan Operations,FHA Loans,"New York, NY",25 - 34,F,white,Part time,2 to less than 4 years,1,3
+588,Senior Loan Officer,Rhodes,Anny,335,Loan Operations,FHA Loans,"New York, NY",35 - 44,F,white,Part time,1 to less than 2 years,1,2
+373,Senior Loan Officer,Ross,Alex,335,Loan Operations,FHA Loans,"New York, NY",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+144,Loan Officer,Jones,Michael,335,Loan Operations,FHA Loans,"New York, NY",18 - 24,M,white,Part time,2 to less than 4 years,1,3
+199,Senior Loan Officer,Allen,Timothy,335,Loan Operations,FHA Loans,"New York, NY",35 - 44,M,white,Full time,2 to less than 4 years,1,3
+710,Loan Officer,Garcia,Phyllis,335,Loan Operations,FHA Loans,"New York, NY",65+,F,hispanic,Full time,less than 6 months,1,0
+702,Loan Officer,Cole,Jeffrey,335,Loan Operations,FHA Loans,"New York, NY",45 - 54,M,african_american,Full time,less than 6 months,1,0
+669,Director of West Coast Region,Hoffman,Eric,18,Loan Operations,West Coast Lending,"Mountain View, CA",45 - 54,M,white,Part time,6 months to less than 1 year,1,1
+533,Loan Officer,Johnson,Matthew,669,Loan Operations,West Coast Lending,"Mountain View, CA",35 - 44,M,african_american,Full time,1 to less than 2 years,1,2
+398,Loan Officer,Hamilton,Jeremy,669,Loan Operations,West Coast Lending,"Mountain View, CA",35 - 44,M,white,Part time,1 to less than 2 years,1,2
+452,Loan Officer,Ali,Andrew,669,Loan Operations,West Coast Lending,"Mountain View, CA",35 - 44,M,mixed_race,Full time,1 to less than 2 years,1,2
+540,Loan Officer,Holmes,Sandra,669,Loan Operations,West Coast Lending,"Mountain View, CA",45 - 54,F,white,Part time,1 to less than 2 years,1,2
+255,Loan Officer,Berry,Gabriella,669,Loan Operations,West Coast Lending,"Mountain View, CA",18 - 24,F,white,Full time,2 to less than 4 years,1,3
+725,Loan Officer,Brown,Mary,669,Loan Operations,West Coast Lending,"Mountain View, CA",35 - 44,F,white,Part time,less than 6 months,1,0
+765,Loan Officer,Morrow,Karina,669,Loan Operations,West Coast Lending,"Mountain View, CA",35 - 44,F,white,Full time,less than 6 months,1,0
+91,Loan Officer,Ramirez,Malinda,669,Loan Operations,West Coast Lending,"Mountain View, CA",35 - 44,F,hispanic,Part time,4 to less than 6 years,1,4
+480,Loan Officer,Jackson,Jacob,669,Loan Operations,West Coast Lending,"Mountain View, CA",18 - 24,M,white,Full time,1 to less than 2 years,1,2
+201,Director of East Coast Region,Barnes,Adrienne,18,Loan Operations,East Coast Lending,"New York, NY",35 - 44,F,white,Part time,2 to less than 4 years,1,3
+538,Loan Officer,Arnold,Dustin,201,Loan Operations,East Coast Lending,"New York, NY",18 - 24,M,mixed_race,Full time,1 to less than 2 years,1,2
+243,Loan Officer,Barber,Celia,201,Loan Operations,East Coast Lending,"New York, NY",18 - 24,F,african_american,Full time,2 to less than 4 years,1,3
+221,Loan Officer,Williams,Sylvia,201,Loan Operations,East Coast Lending,"New York, NY",55 - 64,F,white,Part time,2 to less than 4 years,1,3
+50,Senior Loan Officer,Simon,Russell,201,Loan Operations,East Coast Lending,"New York, NY",35 - 44,M,white,Full time,4 to less than 6 years,1,4
+379,Senior Loan Officer,Lozano,Ronald,201,Loan Operations,East Coast Lending,"New York, NY",45 - 54,M,hispanic,Part time,1 to less than 2 years,1,2
+147,Loan Officer,Castillo,Allan,201,Loan Operations,East Coast Lending,"New York, NY",25 - 34,M,hispanic,Full time,2 to less than 4 years,1,3
+224,Loan Officer,Foster,Gabriel,201,Loan Operations,East Coast Lending,"New York, NY",25 - 34,M,white,Full time,2 to less than 4 years,1,3
+768,Loan Officer,Garcia,Jasmine,201,Loan Operations,East Coast Lending,"New York, NY",25 - 34,F,hispanic,Full time,less than 6 months,1,0
+10,Loan Officer,Scott,Iris,201,Loan Operations,East Coast Lending,"New York, NY",18 - 24,F,white,Full time,4 to less than 6 years,1,4
+753,Loan Officer,Prince,Tabitha,201,Loan Operations,East Coast Lending,"New York, NY",35 - 44,F,white,Full time,less than 6 months,1,0
+488,Senior Loan Officer,Anderson,Rudy,201,Loan Operations,East Coast Lending,"New York, NY",25 - 34,M,white,Full time,1 to less than 2 years,1,2
+307,Director of Southern Region,Arnold,Hanna,18,Loan Operations,South Lending,"Atlanta, GA",18 - 24,F,white,Full time,2 to less than 4 years,1,3
+556,Loan Officer,George,Gustavo,307,Loan Operations,South Lending,"Atlanta, GA",18 - 24,M,asian,Part time,1 to less than 2 years,1,2
+75,Loan Officer,Harris,Grayson,307,Loan Operations,South Lending,"Atlanta, GA",18 - 24,M,mixed_race,Full time,4 to less than 6 years,1,4
+64,Loan Officer,Jackson,Lily,307,Loan Operations,South Lending,"Atlanta, GA",18 - 24,F,mixed_race,Full time,4 to less than 6 years,1,4
+648,Director of Southwest Region,Duncan,Terry,18,Loan Operations,Southwest Lending,"Austin, TX",25 - 34,M,mixed_race,Part time,6 months to less than 1 year,1,1
+163,Loan Officer,Jimenez,Yesenia,648,Loan Operations,Southwest Lending,"Austin, TX",25 - 34,F,hispanic,Full time,2 to less than 4 years,1,3
+138,Loan Officer,Johnson,Julia,648,Loan Operations,Southwest Lending,"Austin, TX",35 - 44,F,white,Full time,2 to less than 4 years,1,3
+53,Senior Loan Officer,Martinez,Toni,648,Loan Operations,Southwest Lending,"Austin, TX",35 - 44,F,hispanic,Full time,4 to less than 6 years,1,4
+183,Director of Midwest Region,Grimes,Sara,18,Loan Operations,Midwest Lending,"Chicago, IL",25 - 34,F,mixed_race,Part time,2 to less than 4 years,1,3
+73,Loan Officer,Anderson,Brooke,183,Loan Operations,Midwest Lending,"Chicago, IL",18 - 24,F,white,Full time,4 to less than 6 years,1,4
+137,Senior Loan Officer,Jones,Andre,183,Loan Operations,Midwest Lending,"Chicago, IL",35 - 44,M,white,Full time,2 to less than 4 years,1,3
+653,Loan Officer,Bauer,Christina,183,Loan Operations,Midwest Lending,"Chicago, IL",45 - 54,F,white,Full time,6 months to less than 1 year,1,1
+367,Senior Loan Officer,Costa,Russell,183,Loan Operations,Midwest Lending,"Chicago, IL",35 - 44,M,hispanic,Part time,1 to less than 2 years,1,2
+633,Loan Officer,George,Jason,183,Loan Operations,Midwest Lending,"Chicago, IL",25 - 34,M,white,Full time,6 months to less than 1 year,1,1
+562,Loan Officer,Morton,Connie,183,Loan Operations,Midwest Lending,"Chicago, IL",65+,F,white,Full time,1 to less than 2 years,1,2
+300,VP of Finance & Accounting,Nixon,Justin,736,Finance & Admin,Finance,"Mountain View, CA",25 - 34,M,white,Full time,2 to less than 4 years,1,3
+323,Senior Financial Analyst,Chase,Laura,300,Finance & Admin,Finance,"Mountain View, CA",35 - 44,F,white,Full time,1 to less than 2 years,1,2
+490,Financial Analyst,Kaur,Eddie,300,Finance & Admin,Finance,"Mountain View, CA",25 - 34,M,asian,Full time,1 to less than 2 years,1,2
+302,Financial Analyst,Nguyen,Jamie,300,Finance & Admin,Finance,"Mountain View, CA",35 - 44,F,asian,Full time,2 to less than 4 years,1,3
+531,VP of FP&A,Brown,Karen,736,Finance & Admin,Financial Planning & Analysis,"Mountain View, CA",55 - 64,F,white,Full time,1 to less than 2 years,1,2
+101,Senior Analyst,Perkins,Lynette,531,Finance & Admin,Financial Planning & Analysis,"Mountain View, CA",45 - 54,F,african_american,Full time,4 to less than 6 years,1,4
+268,Analyst,Nguyen,Timothy,531,Finance & Admin,Financial Planning & Analysis,"Mountain View, CA",35 - 44,M,mixed_race,Full time,2 to less than 4 years,1,3
+296,Senior Analyst,Lopez,Brandon,531,Finance & Admin,Financial Planning & Analysis,"Mountain View, CA",35 - 44,M,hispanic,Full time,2 to less than 4 years,1,3
+118,Analyst,Ingram,Wayne,531,Finance & Admin,Financial Planning & Analysis,"Mountain View, CA",45 - 54,M,white,Part time,4 to less than 6 years,1,4
+180,Senior Analyst,Cox,Michelle,531,Finance & Admin,Financial Planning & Analysis,"Mountain View, CA",35 - 44,F,white,Full time,2 to less than 4 years,1,3
+458,VP of Underwriting,Lam,Dustin,736,Finance & Admin,Underwriting,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+645,Senior Underwriter,Allen,Nicholas,458,Finance & Admin,Underwriting,"Mountain View, CA",35 - 44,M,white,Full time,6 months to less than 1 year,1,1
+547,Director of HR,Nguyen,Cole,736,Finance & Admin,Human Resources,"Mountain View, CA",18 - 24,M,asian,Part time,1 to less than 2 years,1,2
+405,Director of Marketing,Hanson,Mark,70,Marketing,Marketing,"New York, NY",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+682,Director of Strategic Marketing,Carter,Nancy,70,Marketing,Strategic Marketing,"New York, NY",55 - 64,F,white,Full time,less than 6 months,1,0
+35,Marketing Analyst,Mclaughlin,Shaquill,682,Marketing,Strategic Marketing,"New York, NY",25 - 34,M,white,Full time,4 to less than 6 years,1,4
+340,Marketing Analyst,Le,Danielle,682,Marketing,Strategic Marketing,"New York, NY",25 - 34,F,asian,Full time,1 to less than 2 years,1,2
+466,Senior Marketing Analyst,Ho,Harmony,682,Marketing,Strategic Marketing,"New York, NY",35 - 44,F,asian,Full time,1 to less than 2 years,1,2
+380,Senior Marketing Analyst,Bailey,Cesar,682,Marketing,Strategic Marketing,"New York, NY",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+81,Senior Marketing Analyst,Coleman,Laura,682,Marketing,Strategic Marketing,"New York, NY",55 - 64,F,white,Full time,4 to less than 6 years,1,4
+481,Product Manager,Dillon,Jaeson,82,Product,Refinancing,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+613,Analyst,Rose,Chet,481,Product,Refinancing,"Mountain View, CA",35 - 44,M,white,Full time,6 months to less than 1 year,1,1
+261,Senior Analyst,Carter,Cherish,481,Product,Refinancing,"Mountain View, CA",35 - 44,F,white,Full time,2 to less than 4 years,1,3
+615,Analyst,Moran,Kamilah,481,Product,Refinancing,"Mountain View, CA",35 - 44,F,white,Full time,6 months to less than 1 year,1,1
+166,Analyst,Holmes,Peter,481,Product,Refinancing,"Mountain View, CA",55 - 64,M,mixed_race,Full time,2 to less than 4 years,1,3
+32,Analyst,Nguyen,Alexander,481,Product,Refinancing,"Mountain View, CA",35 - 44,M,asian,Full time,4 to less than 6 years,1,4
+92,Analyst,Branch,Patrick,481,Product,Refinancing,"Mountain View, CA",35 - 44,M,african_american,Full time,4 to less than 6 years,1,4
+502,Senior Analyst,Vance,Regina,481,Product,Refinancing,"Mountain View, CA",55 - 64,F,mixed_race,Full time,1 to less than 2 years,1,2
+497,Analyst,Phelps,Kenneth,481,Product,Refinancing,"Mountain View, CA",45 - 54,M,white,Full time,1 to less than 2 years,1,2
+518,Product Manager,Andrade,Anthony,82,Product,New Home Purchase,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+464,Analyst,Jones,Sean,518,Product,New Home Purchase,"Mountain View, CA",25 - 34,M,african_american,Full time,1 to less than 2 years,1,2
+740,Analyst,Moore,Cedrick,518,Product,New Home Purchase,"Mountain View, CA",25 - 34,M,white,Full time,less than 6 months,1,0
+522,Analyst,Bryant,Melinda,518,Product,New Home Purchase,"Mountain View, CA",35 - 44,F,white,Full time,1 to less than 2 years,1,2
+290,Analyst,Brown,Theodore,518,Product,New Home Purchase,"Mountain View, CA",35 - 44,M,white,Full time,2 to less than 4 years,1,3
+408,Analyst,Salinas,Shane,518,Product,New Home Purchase,"Mountain View, CA",45 - 54,M,mixed_race,Full time,1 to less than 2 years,1,2
+639,Analyst,Roberts,Travis,518,Product,New Home Purchase,"Mountain View, CA",35 - 44,M,african_american,Full time,6 months to less than 1 year,1,1
+572,Product Manager,Henderson,Sarah,82,Product,Realtor Portal,"Mountain View, CA",25 - 34,F,white,Full time,1 to less than 2 years,1,2
+565,Analyst,Johnson,Steven,572,Product,Realtor Portal,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+252,Analyst,Munoz,Kurt,572,Product,Realtor Portal,"Mountain View, CA",35 - 44,M,hispanic,Full time,2 to less than 4 years,1,3
+372,Analyst,May,Ray,572,Product,Realtor Portal,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+240,Analyst,Larsen,William,572,Product,Realtor Portal,"Mountain View, CA",35 - 44,M,white,Full time,2 to less than 4 years,1,3
+54,Senior Analyst,Li,Shantel,572,Product,Realtor Portal,"Mountain View, CA",25 - 34,F,asian,Full time,4 to less than 6 years,1,4
+425,Product Manager,Smith,Ernest,82,Product,Lender Portal,"Mountain View, CA",25 - 34,M,white,Full time,1 to less than 2 years,1,2
+62,Senior Analyst,Alvarez,Eric,425,Product,Lender Portal,"Mountain View, CA",25 - 34,M,hispanic,Full time,4 to less than 6 years,1,4
+217,Analyst,Lin,Adam,425,Product,Lender Portal,"Mountain View, CA",45 - 54,M,asian,Full time,2 to less than 4 years,1,3
+622,Analyst,Roberts,Sarina,425,Product,Lender Portal,"Mountain View, CA",35 - 44,F,white,Full time,6 months to less than 1 year,1,1
+698,Analyst,Wilson,Paul,425,Product,Lender Portal,"Mountain View, CA",35 - 44,M,white,Full time,less than 6 months,1,0
+184,Analyst,Davis,Jefferson,425,Product,Lender Portal,"Mountain View, CA",45 - 54,M,white,Full time,2 to less than 4 years,1,3
+539,Senior Analyst,Salazar,Jessie,425,Product,Lender Portal,"Mountain View, CA",35 - 44,M,mixed_race,Full time,1 to less than 2 years,1,2
+263,Analyst,Holmes,Gary,425,Product,Lender Portal,"Mountain View, CA",55 - 64,M,white,Full time,2 to less than 4 years,1,3
+60,Product Manager,Mcfarland,Steven,82,Product,Loan Officer Portal,"Mountain View, CA",35 - 44,M,african_american,Full time,4 to less than 6 years,1,4
+233,Analyst,Li,Jason,60,Product,Loan Officer Portal,"Mountain View, CA",35 - 44,M,asian,Full time,2 to less than 4 years,1,3
+555,Analyst,Freeman,David,60,Product,Loan Officer Portal,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+430,Analyst,Barnes,Peter,60,Product,Loan Officer Portal,"Mountain View, CA",45 - 54,M,white,Full time,1 to less than 2 years,1,2
+88,Analyst,Arnold,Dustin,60,Product,Loan Officer Portal,"Mountain View, CA",25 - 34,M,white,Full time,4 to less than 6 years,1,4
+85,Chief Designer,Hamilton,Dexter,82,Product,User Experience / User Interface,"New York, NY",25 - 34,M,african_american,Part time,4 to less than 6 years,1,4
+223,Designer,Delarosa,Christopher,85,Product,User Experience / User Interface,"New York, NY",45 - 54,M,hispanic,Full time,2 to less than 4 years,1,3
+285,Senior Designer,Randolph,Shane,85,Product,User Experience / User Interface,"New York, NY",35 - 44,M,white,Full time,2 to less than 4 years,1,3
+769,Designer,Kirby,Benjamin,85,Product,User Experience / User Interface,"New York, NY",25 - 34,M,white,Full time,less than 6 months,1,0
+346,Senior Designer,Smith,Tad,85,Product,User Experience / User Interface,"New York, NY",35 - 44,M,african_american,Full time,1 to less than 2 years,1,2
+212,Designer,Lee,Kathyrn,85,Product,User Experience / User Interface,"New York, NY",25 - 34,F,white,Full time,2 to less than 4 years,1,3
+764,Director of Business Development,Greene,Karen,225,Loan Operations,East Coast Lender Relations,"New York, NY",45 - 54,F,white,Full time,less than 6 months,1,0
+437,Director of Business Development,Marsh,Cephus,225,Loan Operations,West Coast Lender Relations,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+453,Director of Business Development,Wallace,Debra,225,Loan Operations,Midwest Lender Relations,"Chicago, IL",55 - 64,F,white,Full time,1 to less than 2 years,1,2
+552,Manager of Engineering,Castro,Benjamin,260,Compliance,Back End,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+597,Engineer,Crawford,Joseph,552,Compliance,Back End,"Mountain View, CA",35 - 44,M,white,Full time,6 months to less than 1 year,1,1
+462,Engineer,Davis,Thomas,552,Compliance,Back End,"Mountain View, CA",45 - 54,M,african_american,Full time,1 to less than 2 years,1,2
+282,Senior Engineer,Hudson,Victor,552,Compliance,Back End,"Mountain View, CA",45 - 54,M,white,Part time,2 to less than 4 years,1,3
+153,Engineer,Gibson,Christopher,552,Compliance,Back End,"Mountain View, CA",35 - 44,M,white,Full time,2 to less than 4 years,1,3
+254,Engineer,Lopez,Aaron,552,Compliance,Back End,"Mountain View, CA",35 - 44,M,hispanic,Part time,2 to less than 4 years,1,3
+586,Engineer,Simmons,Julie,552,Compliance,Back End,"Mountain View, CA",55 - 64,F,white,Full time,1 to less than 2 years,1,2
+143,Engineer,Allen,Kendarrius,552,Compliance,Back End,"Mountain View, CA",18 - 24,M,african_american,Full time,2 to less than 4 years,1,3
+628,Manager of Engineering,Norton,Rhonda,260,Compliance,Back End,"Mountain View, CA",65+,F,white,Full time,6 months to less than 1 year,1,1
+229,Chief Engineer,Stafford,Federico,628,Compliance,Back End,"Mountain View, CA",45 - 54,M,african_american,Full time,2 to less than 4 years,1,3
+733,Engineer,Montes,Sharon,628,Compliance,Back End,"Mountain View, CA",45 - 54,F,hispanic,Full time,less than 6 months,1,0
+727,Chief Engineer,Miller,Anthony,628,Compliance,Back End,"Mountain View, CA",55 - 64,M,white,Full time,less than 6 months,1,0
+654,Engineer,Norris,Jordan,628,Compliance,Back End,"Mountain View, CA",35 - 44,M,african_american,Full time,6 months to less than 1 year,1,1
+38,Engineer,Newton,Vivian,628,Compliance,Back End,"Mountain View, CA",55 - 64,F,white,Full time,4 to less than 6 years,1,4
+610,Engineer,Poole,Susana,628,Compliance,Back End,"Mountain View, CA",55 - 64,F,african_american,Full time,6 months to less than 1 year,1,1
+357,Engineer,Meyer,Roberta,628,Compliance,Back End,"Mountain View, CA",55 - 64,F,white,Full time,1 to less than 2 years,1,2
+585,Chief Engineer,James,Brandon,628,Compliance,Back End,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+546,Manager of Engineering,Torres,Alexander,68,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,hispanic,Full time,1 to less than 2 years,1,2
+354,Engineer,Cantu,Rylan,546,Engineering,Algorithm Development,"Mountain View, CA",18 - 24,M,mixed_race,Full time,1 to less than 2 years,1,2
+318,Engineer,Delacruz,Luke,546,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,M,asian,Part time,2 to less than 4 years,1,3
+15,Engineer,Ahmed,Melissa,546,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,F,asian,Full time,4 to less than 6 years,1,4
+612,Engineer,Chen,Arlin,546,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,asian,Full time,6 months to less than 1 year,1,1
+671,Engineer,Neal,David,546,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,M,white,Part time,less than 6 months,1,0
+157,Engineer,Dejesus,John,546,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,asian,Full time,2 to less than 4 years,1,3
+341,Senior Engineer,Thomas,Jeremy,546,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,M,white,Full time,1 to less than 2 years,1,2
+21,Manager of Engineering,Mcconnell,Mercedes,68,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,F,white,Part time,4 to less than 6 years,1,4
+706,Senior Engineer,Kim,Holly,21,Engineering,Algorithm Development,"Mountain View, CA",45 - 54,F,asian,Full time,less than 6 months,1,0
+549,Engineer,Wong,Justin,21,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,M,asian,Full time,1 to less than 2 years,1,2
+402,Senior Engineer,Wong,Garrett,21,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,M,asian,Full time,1 to less than 2 years,1,2
+450,Senior Engineer,Li,Anthony,21,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+424,Engineer,Wheeler,Gabriel,21,Engineering,Algorithm Development,"Mountain View, CA",18 - 24,M,white,Full time,1 to less than 2 years,1,2
+664,Engineer,Howard,Robert,21,Engineering,Algorithm Development,"Mountain View, CA",55 - 64,M,white,Full time,6 months to less than 1 year,1,1
+743,Engineer,Singh,Brent,21,Engineering,Algorithm Development,"Mountain View, CA",45 - 54,M,asian,Full time,less than 6 months,1,0
+47,Engineer,Le,Christopher,21,Engineering,Algorithm Development,"Mountain View, CA",45 - 54,M,asian,Full time,4 to less than 6 years,1,4
+673,Manager of Engineering,Kim,Julio,68,Engineering,Algorithm Development,"Mountain View, CA",45 - 54,M,asian,Full time,less than 6 months,1,0
+535,Senior Engineer,Lee,James,673,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+536,Engineer,Webb,Kenneth,673,Engineering,Algorithm Development,"Mountain View, CA",45 - 54,M,white,Full time,1 to less than 2 years,1,2
+319,Engineer,Pham,Leslie,673,Engineering,Algorithm Development,"Mountain View, CA",55 - 64,F,asian,Full time,1 to less than 2 years,1,2
+651,Engineer,Patel,Jason,673,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,asian,Full time,6 months to less than 1 year,1,1
+521,Senior Engineer,Adams,June,673,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,F,white,Full time,1 to less than 2 years,1,2
+390,Engineer,Wilson,Andrea,673,Engineering,Algorithm Development,"Mountain View, CA",45 - 54,F,white,Full time,1 to less than 2 years,1,2
+551,Engineer,Vo,Tasha,673,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,F,asian,Full time,1 to less than 2 years,1,2
+239,Engineer,Nguyen,Ernest,673,Engineering,Algorithm Development,"Mountain View, CA",55 - 64,M,asian,Part time,2 to less than 4 years,1,3
+575,Engineer,Li,Scott,673,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,M,asian,Full time,1 to less than 2 years,1,2
+712,Manager of Engineering,Pham,Deandre,68,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,M,asian,Full time,less than 6 months,1,0
+350,Engineer,Lee,Jerry,712,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+701,Chief Engineer,Lee,Matthew,712,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,asian,Full time,less than 6 months,1,0
+238,Engineer,Moon,Richard,712,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,asian,Full time,2 to less than 4 years,1,3
+393,Engineer,Macdonald,Tabatha,712,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,F,white,Full time,1 to less than 2 years,1,2
+557,Chief Engineer,Nguyen,Toshiba,712,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,F,asian,Part time,1 to less than 2 years,1,2
+525,Engineer,Benton,David,712,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,M,mixed_race,Full time,1 to less than 2 years,1,2
+213,Chief Engineer,Gray,Charles,712,Engineering,Algorithm Development,"Mountain View, CA",55 - 64,M,white,Full time,2 to less than 4 years,1,3
+421,Manager of Engineering,Davis,Matthew,68,Engineering,Algorithm Development,"Mountain View, CA",18 - 24,M,white,Full time,1 to less than 2 years,1,2
+65,Engineer,Roy,Barbra,421,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,F,asian,Full time,4 to less than 6 years,1,4
+414,Engineer,Ali,Tracey,421,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+322,Engineer,Chen,Amanda,421,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,F,asian,Full time,1 to less than 2 years,1,2
+643,Chief Engineer,Kim,Paul,421,Engineering,Algorithm Development,"Mountain View, CA",55 - 64,M,asian,Full time,6 months to less than 1 year,1,1
+249,Engineer,Singh,Gerald,421,Engineering,Algorithm Development,"Mountain View, CA",45 - 54,M,asian,Full time,2 to less than 4 years,1,3
+511,Chief Engineer,Tran,Steven,421,Engineering,Algorithm Development,"Mountain View, CA",25 - 34,M,asian,Full time,1 to less than 2 years,1,2
+257,Chief Engineer,Nixon,Luis,421,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,white,Full time,2 to less than 4 years,1,3
+746,Engineer,Roman,Kurt,421,Engineering,Algorithm Development,"Mountain View, CA",35 - 44,M,white,Full time,less than 6 months,1,0
+411,Engineer,Roberts,Judy,421,Engineering,Algorithm Development,"Mountain View, CA",45 - 54,F,white,Full time,1 to less than 2 years,1,2
+676,Manager of Engineering,Wilson,Gabriel,326,Engineering,Front End,"Mountain View, CA",35 - 44,M,white,Full time,less than 6 months,1,0
+640,Senior Engineer,Pham,Shawn,676,Engineering,Front End,"Mountain View, CA",35 - 44,M,asian,Full time,6 months to less than 1 year,1,1
+589,Engineer,Thomas,Jason,676,Engineering,Front End,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+605,Engineer,Kim,Duane,676,Engineering,Front End,"Mountain View, CA",55 - 64,M,asian,Full time,6 months to less than 1 year,1,1
+665,Engineer,Peralta,Mia,676,Engineering,Front End,"Mountain View, CA",18 - 24,F,asian,Full time,6 months to less than 1 year,1,1
+590,Engineer,Mccormick,Travis,676,Engineering,Front End,"Mountain View, CA",25 - 34,M,white,Full time,1 to less than 2 years,1,2
+717,Engineer,Huang,Loren,676,Engineering,Front End,"Mountain View, CA",25 - 34,M,asian,Full time,less than 6 months,1,0
+443,Engineer,Chen,Peter,676,Engineering,Front End,"Mountain View, CA",25 - 34,M,asian,Part time,1 to less than 2 years,1,2
+542,Engineer,Golden,Juan,676,Engineering,Front End,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+723,Engineer,Anderson,Joshua,676,Engineering,Front End,"Mountain View, CA",25 - 34,M,white,Full time,less than 6 months,1,0
+571,Engineer,Dean,Joseph,676,Engineering,Front End,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+292,Senior Engineer,Lin,Sean,676,Engineering,Front End,"Mountain View, CA",18 - 24,M,asian,Full time,2 to less than 4 years,1,3
+440,Engineer,Bell,Kirsten,676,Engineering,Front End,"Mountain View, CA",25 - 34,F,white,Full time,1 to less than 2 years,1,2
+103,Manager of Engineering,Murphy,Dora,326,Engineering,Front End,"Mountain View, CA",35 - 44,F,african_american,Full time,4 to less than 6 years,1,4
+386,Senior Engineer,Weeks,Timothy,103,Engineering,Front End,"Mountain View, CA",55 - 64,M,white,Full time,1 to less than 2 years,1,2
+501,Senior Engineer,Patel,Osvaldo,103,Engineering,Front End,"Mountain View, CA",18 - 24,M,asian,Full time,1 to less than 2 years,1,2
+477,Engineer,Lee,Eric,103,Engineering,Front End,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+160,Engineer,George,Nathan,103,Engineering,Front End,"Mountain View, CA",25 - 34,M,asian,Full time,2 to less than 4 years,1,3
+446,Chief Engineer,Vo,Chad,103,Engineering,Front End,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+457,Engineer,Garcia,Hunter,103,Engineering,Front End,"Mountain View, CA",25 - 34,M,hispanic,Full time,1 to less than 2 years,1,2
+171,Engineer,Monroe,Jenny,103,Engineering,Front End,"Mountain View, CA",35 - 44,F,white,Full time,2 to less than 4 years,1,3
+112,Engineer,Carter,Donald,103,Engineering,Front End,"Mountain View, CA",25 - 34,M,white,Full time,4 to less than 6 years,1,4
+617,Manager of Engineering,Nguyen,Alvaro,326,Engineering,Front End,"Mountain View, CA",18 - 24,M,asian,Full time,6 months to less than 1 year,1,1
+719,Engineer,Romero,Melissa,617,Engineering,Front End,"Mountain View, CA",25 - 34,F,white,Full time,less than 6 months,1,0
+492,Engineer,Roy,Phillip,617,Engineering,Front End,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+131,Senior Engineer,Ali,Nathan,617,Engineering,Front End,"Mountain View, CA",18 - 24,M,white,Part time,2 to less than 4 years,1,3
+78,Engineer,Lee,Brian,617,Engineering,Front End,"Mountain View, CA",25 - 34,M,asian,Full time,4 to less than 6 years,1,4
+98,Engineer,Woodward,Daniel,617,Engineering,Front End,"Mountain View, CA",35 - 44,M,white,Full time,4 to less than 6 years,1,4
+704,Engineer,Santos,Javon,617,Engineering,Front End,"Mountain View, CA",35 - 44,M,white,Full time,less than 6 months,1,0
+362,Engineer,Patterson,Enrique,617,Engineering,Front End,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+687,Engineer,Anderson,Tangela,617,Engineering,Front End,"Mountain View, CA",35 - 44,F,white,Part time,less than 6 months,1,0
+173,Engineer,Patel,Richard,617,Engineering,Front End,"Mountain View, CA",35 - 44,M,asian,Full time,2 to less than 4 years,1,3
+310,Engineer,Mendoza,Paul,617,Engineering,Front End,"Mountain View, CA",55 - 64,M,hispanic,Full time,2 to less than 4 years,1,3
+756,Manager of Engineering,Tran,Dylan,149,Engineering,Security,"Mountain View, CA",25 - 34,M,asian,Part time,less than 6 months,1,0
+766,Engineer,Nguyen,Jason,756,Engineering,Security,"Mountain View, CA",35 - 44,M,asian,Full time,less than 6 months,1,0
+761,Senior Engineer,Tran,Kurtis,756,Engineering,Security,"Mountain View, CA",25 - 34,M,asian,Full time,less than 6 months,1,0
+656,Engineer,Williams,Charles,756,Engineering,Security,"Mountain View, CA",35 - 44,M,white,Full time,6 months to less than 1 year,1,1
+128,Engineer,Carpenter,Stormy,756,Engineering,Security,"Mountain View, CA",18 - 24,M,white,Part time,2 to less than 4 years,1,3
+537,Manager of Engineering,Lee,Margaret,149,Engineering,Security,"Mountain View, CA",55 - 64,F,white,Full time,1 to less than 2 years,1,2
+515,Senior Engineer,Silva,Benjamin,537,Engineering,Security,"Mountain View, CA",35 - 44,M,hispanic,Full time,1 to less than 2 years,1,2
+383,Engineer,Villanueva,Justin,537,Engineering,Security,"Mountain View, CA",25 - 34,M,asian,Part time,1 to less than 2 years,1,2
+722,Engineer,Wu,William,537,Engineering,Security,"Mountain View, CA",35 - 44,M,asian,Full time,less than 6 months,1,0
+192,Engineer,Nguyen,Shane,537,Engineering,Security,"Mountain View, CA",25 - 34,M,asian,Full time,2 to less than 4 years,1,3
+94,Senior Engineer,Nguyen,Luke,537,Engineering,Security,"Mountain View, CA",35 - 44,M,asian,Full time,4 to less than 6 years,1,4
+679,Engineer,Ho,Jordan,537,Engineering,Security,"Mountain View, CA",35 - 44,M,asian,Full time,less than 6 months,1,0
+365,Manager of Engineering,Lee,Natasha,580,Engineering,Full Stack,"Mountain View, CA",18 - 24,F,asian,Full time,1 to less than 2 years,1,2
+297,Chief Engineer,Nguyen,Mark,365,Engineering,Full Stack,"Mountain View, CA",45 - 54,M,asian,Full time,2 to less than 4 years,1,3
+400,Senior Engineer,Wu,Steve,365,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+415,Senior Engineer,Ali,Jeffrey,365,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,asian,Full time,1 to less than 2 years,1,2
+475,Engineer,Hansen,Rhett,365,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,mixed_race,Full time,1 to less than 2 years,1,2
+186,Engineer,Miller,Andy,365,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,white,Full time,2 to less than 4 years,1,3
+345,Engineer,Rogers,Cody,365,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,white,Full time,1 to less than 2 years,1,2
+434,Engineer,Yates,Austin,365,Engineering,Full Stack,"Mountain View, CA",18 - 24,M,white,Full time,1 to less than 2 years,1,2
+30,Engineer,Kim,Aaron,365,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,asian,Full time,4 to less than 6 years,1,4
+559,Engineer,Simon,Judah,365,Engineering,Full Stack,"Mountain View, CA",18 - 24,M,hispanic,Part time,1 to less than 2 years,1,2
+209,Manager of Engineering,Xiong,Israel,580,Engineering,Full Stack,"Mountain View, CA",45 - 54,M,asian,Full time,2 to less than 4 years,1,3
+58,Chief Engineer,Leon,David,209,Engineering,Full Stack,"Mountain View, CA",55 - 64,M,white,Full time,4 to less than 6 years,1,4
+293,Engineer,Lee,Tiffany,209,Engineering,Full Stack,"Mountain View, CA",25 - 34,F,asian,Full time,2 to less than 4 years,1,3
+79,Engineer,Holmes,Randy,209,Engineering,Full Stack,"Mountain View, CA",45 - 54,M,white,Full time,4 to less than 6 years,1,4
+661,Engineer,Perry,John,209,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,african_american,Full time,6 months to less than 1 year,1,1
+216,Engineer,Lu,Christopher,209,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,asian,Full time,2 to less than 4 years,1,3
+620,Engineer,Bennett,Jordan,209,Engineering,Full Stack,"Mountain View, CA",25 - 34,F,white,Full time,6 months to less than 1 year,1,1
+422,Senior Engineer,Young,William,209,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,white,Full time,1 to less than 2 years,1,2
+332,Chief Engineer,Barrett,Travis,209,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,white,Full time,1 to less than 2 years,1,2
+375,Senior Engineer,Simon,Andrea,209,Engineering,Full Stack,"Mountain View, CA",35 - 44,F,white,Full time,1 to less than 2 years,1,2
+177,Engineer,Li,Keith,209,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,asian,Part time,2 to less than 4 years,1,3
+329,Manager of Engineering,George,Thomas,580,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,asian,Full time,1 to less than 2 years,1,2
+121,Engineer,Yang,Andrew,329,Engineering,Full Stack,"Mountain View, CA",45 - 54,M,asian,Part time,2 to less than 4 years,1,3
+227,Engineer,Li,Daniel,329,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,asian,Full time,2 to less than 4 years,1,3
+607,Chief Engineer,David,Joseph,329,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,asian,Full time,6 months to less than 1 year,1,1
+348,Senior Engineer,Bender,Hilda,329,Engineering,Full Stack,"Mountain View, CA",35 - 44,F,white,Full time,1 to less than 2 years,1,2
+24,Senior Engineer,Martin,Jane,329,Engineering,Full Stack,"Mountain View, CA",55 - 64,F,white,Full time,4 to less than 6 years,1,4
+61,Engineer,David,Zachary,329,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,asian,Full time,4 to less than 6 years,1,4
+461,Engineer,Norman,Jacob,329,Engineering,Full Stack,"Mountain View, CA",35 - 44,M,white,Part time,1 to less than 2 years,1,2
+336,Engineer,David,Daniela,329,Engineering,Full Stack,"Mountain View, CA",25 - 34,F,asian,Full time,1 to less than 2 years,1,2
+196,Engineer,Jones,Andrew,329,Engineering,Full Stack,"Mountain View, CA",25 - 34,M,white,Part time,2 to less than 4 years,1,3
+273,Engineer,Sanders,Amanda,329,Engineering,Full Stack,"Mountain View, CA",35 - 44,F,white,Full time,2 to less than 4 years,1,3
+236,Treasurer,Lee,Daniel,183,Loan Operations,Finance,"Mountain View, CA",55 - 64,M,asian,Part time,2 to less than 4 years,1,3
+278,Financial Analyst,Yang,Julie,236,Loan Operations,Finance,"Mountain View, CA",55 - 64,F,asian,Full time,2 to less than 4 years,1,3
+376,Financial Analyst,Brooks,Ryan,236,Loan Operations,Finance,"Mountain View, CA",25 - 34,M,white,Full time,1 to less than 2 years,1,2
+396,Financial Analyst,Oconnor,Eric,236,Loan Operations,Finance,"Mountain View, CA",45 - 54,M,white,Full time,1 to less than 2 years,1,2
+505,Financial Analyst,Campbell,Kala,236,Loan Operations,Finance,"Mountain View, CA",35 - 44,F,mixed_race,Full time,1 to less than 2 years,1,2
+359,Financial Analyst,Reynolds,Mike,236,Loan Operations,Finance,"Mountain View, CA",55 - 64,M,white,Part time,1 to less than 2 years,1,2
+721,Financial Analyst,Johnson,Sondra,236,Loan Operations,Finance,"Mountain View, CA",55 - 64,F,white,Full time,less than 6 months,1,0
+666,Senior Financial Analyst,Vaughn,Jackson,236,Loan Operations,Finance,"Mountain View, CA",18 - 24,M,white,Full time,6 months to less than 1 year,1,1
+234,Controller,Ponce,Tyrone,183,Loan Operations,Finance,"Mountain View, CA",55 - 64,M,mixed_race,Full time,2 to less than 4 years,1,3
+449,Accountant,Diaz,Daniel,234,Loan Operations,Finance,"Mountain View, CA",45 - 54,M,hispanic,Part time,1 to less than 2 years,1,2
+232,Accountant,George,Aristeo,234,Loan Operations,Finance,"Mountain View, CA",18 - 24,M,white,Part time,2 to less than 4 years,1,3
+270,Accountant,Hawkins,Nicole,234,Loan Operations,Finance,"Mountain View, CA",25 - 34,F,mixed_race,Full time,2 to less than 4 years,1,3
+327,Accountant,Leonard,Melinda,234,Loan Operations,Finance,"Mountain View, CA",25 - 34,F,white,Part time,1 to less than 2 years,1,2
+96,Accountant,Bell,Chad,234,Loan Operations,Finance,"Mountain View, CA",35 - 44,M,white,Part time,4 to less than 6 years,1,4
+751,Manager of Underwriting,Xiong,Blake,531,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,M,asian,Part time,less than 6 months,1,0
+468,Senior Underwriter,Dean,Clara,751,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,F,white,Part time,1 to less than 2 years,1,2
+141,Underwriter,Delacruz,Brooke,751,Finance & Admin,Underwriting,"Mountain View, CA",35 - 44,F,asian,Full time,2 to less than 4 years,1,3
+281,Underwriter,Palmer,Mont,751,Finance & Admin,Underwriting,"Mountain View, CA",55 - 64,M,white,Part time,2 to less than 4 years,1,3
+431,Underwriter,Conway,Kathryn,751,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,F,white,Full time,1 to less than 2 years,1,2
+476,Senior Underwriter,Flores,Tamika,751,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,F,hispanic,Full time,1 to less than 2 years,1,2
+95,Underwriter,Tucker,Mitchell,751,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,M,white,Full time,4 to less than 6 years,1,4
+331,Underwriter,Phelps,Kathy,751,Finance & Admin,Underwriting,"Mountain View, CA",45 - 54,F,mixed_race,Full time,1 to less than 2 years,1,2
+44,Manager of Underwriting,Lee,Tony,531,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,M,asian,Full time,4 to less than 6 years,1,4
+428,Underwriter,Scott,Devon,44,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,M,white,Full time,1 to less than 2 years,1,2
+636,Underwriter,Edwards,Steven,44,Finance & Admin,Underwriting,"Mountain View, CA",35 - 44,M,white,Full time,6 months to less than 1 year,1,1
+749,Underwriter,Thomas,Kimberly,44,Finance & Admin,Underwriting,"Mountain View, CA",55 - 64,F,white,Full time,less than 6 months,1,0
+276,Underwriter,Lee,Michael,44,Finance & Admin,Underwriting,"Mountain View, CA",45 - 54,M,asian,Full time,2 to less than 4 years,1,3
+641,Underwriter,Compton,Nestor,44,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,M,white,Full time,6 months to less than 1 year,1,1
+487,Underwriter,Skinner,Amy,44,Finance & Admin,Underwriting,"Mountain View, CA",45 - 54,F,white,Full time,1 to less than 2 years,1,2
+4,Senior Underwriter,Deleon,Josephine,44,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,F,asian,Full time,4 to less than 6 years,1,4
+337,Underwriter,Perez,Katy,44,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,F,hispanic,Full time,1 to less than 2 years,1,2
+175,Manager of Underwriting,Ortiz,Frankie,531,Finance & Admin,Underwriting,"Mountain View, CA",55 - 64,F,hispanic,Full time,2 to less than 4 years,1,3
+658,Senior Underwriter,Parker,Dana,175,Finance & Admin,Underwriting,"Mountain View, CA",35 - 44,F,white,Full time,6 months to less than 1 year,1,1
+208,Senior Underwriter,Hughes,Tyrese,175,Finance & Admin,Underwriting,"Mountain View, CA",18 - 24,M,white,Full time,2 to less than 4 years,1,3
+352,Senior Underwriter,Mitchell,Barbara,175,Finance & Admin,Underwriting,"Mountain View, CA",55 - 64,F,african_american,Full time,1 to less than 2 years,1,2
+693,Senior Underwriter,Solomon,Kathleen,175,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,F,white,Full time,less than 6 months,1,0
+690,Underwriter,Thompson,Connor,175,Finance & Admin,Underwriting,"Mountain View, CA",18 - 24,M,african_american,Full time,less than 6 months,1,0
+724,Underwriter,Williams,Catherine,175,Finance & Admin,Underwriting,"Mountain View, CA",55 - 64,F,mixed_race,Full time,less than 6 months,1,0
+266,Senior Underwriter,Campbell,Judith,175,Finance & Admin,Underwriting,"Mountain View, CA",35 - 44,F,african_american,Full time,2 to less than 4 years,1,3
+631,Underwriter,Taylor,Amy,175,Finance & Admin,Underwriting,"Mountain View, CA",35 - 44,F,white,Part time,6 months to less than 1 year,1,1
+165,Underwriter,Park,Emilie,175,Finance & Admin,Underwriting,"Mountain View, CA",45 - 54,F,asian,Full time,2 to less than 4 years,1,3
+436,Manager of HR,Bradley,Andrea,458,Finance & Admin,Human Resources,"Mountain View, CA",25 - 34,F,white,Part time,1 to less than 2 years,1,2
+442,HR Analyst,Hart,Kimberly,436,Finance & Admin,Human Resources,"Mountain View, CA",45 - 54,F,white,Full time,1 to less than 2 years,1,2
+568,HR Analyst,Edwards,Mark,436,Finance & Admin,Human Resources,"Mountain View, CA",25 - 34,M,mixed_race,Full time,1 to less than 2 years,1,2
+289,HR Analyst,Lee,Pooja,436,Finance & Admin,Human Resources,"Mountain View, CA",18 - 24,F,asian,Full time,2 to less than 4 years,1,3
+757,HR Analyst,Parker,Brianna,436,Finance & Admin,Human Resources,"Mountain View, CA",25 - 34,F,white,Full time,less than 6 months,1,0
+162,Manager of Recruitment,Brewer,Laura,458,Finance & Admin,Human Resources,"Mountain View, CA",55 - 64,F,white,Full time,2 to less than 4 years,1,3
+89,Recruiter,Robertson,Leann,162,Finance & Admin,Human Resources,"Mountain View, CA",35 - 44,F,white,Full time,4 to less than 6 years,1,4
+715,Recruiter,Davis,Corey,162,Finance & Admin,Human Resources,"Mountain View, CA",45 - 54,M,white,Part time,less than 6 months,1,0
+627,Recruiter,Daniels,Makenna,162,Finance & Admin,Human Resources,"Mountain View, CA",25 - 34,F,white,Full time,6 months to less than 1 year,1,1
+603,Senior Recruiter,Roberts,Ethan,162,Finance & Admin,Human Resources,"Mountain View, CA",18 - 24,M,white,Part time,6 months to less than 1 year,1,1
+132,Recruiter,Mccarthy,Laura,162,Finance & Admin,Human Resources,"Mountain View, CA",35 - 44,F,white,Full time,2 to less than 4 years,1,3
+498,Recruiter,Williams,Shauna,162,Finance & Admin,Human Resources,"Mountain View, CA",25 - 34,F,white,Full time,1 to less than 2 years,1,2
+573,Recruiter,Chen,Roni,162,Finance & Admin,Human Resources,"Mountain View, CA",55 - 64,F,asian,Full time,1 to less than 2 years,1,2
+218,Recruiter,Hill,Marlene,162,Finance & Admin,Human Resources,"Mountain View, CA",35 - 44,F,white,Full time,2 to less than 4 years,1,3
+624,Marketing Manager,Patel,Tina,547,Finance & Admin,Channel Marketing,"New York, NY",45 - 54,F,asian,Full time,6 months to less than 1 year,1,1
+545,Senior Marketing Analyst,Rogers,Hope,624,Finance & Admin,Channel Marketing,"New York, NY",35 - 44,F,mixed_race,Full time,1 to less than 2 years,1,2
+188,Marketing Analyst,Boyd,Mary,624,Finance & Admin,Channel Marketing,"New York, NY",25 - 34,F,african_american,Part time,2 to less than 4 years,1,3
+720,Senior Marketing Analyst,Brown,Yaneth,624,Finance & Admin,Channel Marketing,"New York, NY",18 - 24,F,white,Full time,less than 6 months,1,0
+313,Marketing Analyst,Mason,Tiffany,624,Finance & Admin,Channel Marketing,"New York, NY",35 - 44,F,african_american,Full time,2 to less than 4 years,1,3
+726,Senior Marketing Analyst,Johnson,Colin,624,Finance & Admin,Channel Marketing,"New York, NY",25 - 34,M,white,Full time,less than 6 months,1,0
+107,Marketing Analyst,Smith,Steven,624,Finance & Admin,Channel Marketing,"New York, NY",35 - 44,M,white,Full time,4 to less than 6 years,1,4
+66,Senior Marketing Analyst,Vo,Christa,624,Finance & Admin,Channel Marketing,"New York, NY",35 - 44,F,asian,Full time,4 to less than 6 years,1,4
+495,Marketing Manager,Romero,Melissa,547,Finance & Admin,Marketing,"New York, NY",35 - 44,F,hispanic,Full time,1 to less than 2 years,1,2
+169,Marketing Analyst,Cunningham,Lindsay,495,Finance & Admin,Marketing,"New York, NY",35 - 44,F,white,Full time,2 to less than 4 years,1,3
+135,Marketing Analyst,Morales,Sirena,495,Finance & Admin,Marketing,"New York, NY",25 - 34,F,hispanic,Full time,2 to less than 4 years,1,3
+108,Senior Marketing Analyst,Lee,Karla,495,Finance & Admin,Marketing,"New York, NY",25 - 34,F,asian,Full time,4 to less than 6 years,1,4
+713,Senior Marketing Analyst,Person,Rodney,495,Finance & Admin,Marketing,"New York, NY",45 - 54,M,hispanic,Full time,less than 6 months,1,0
+27,Marketing Analyst,Kim,Virginia,495,Finance & Admin,Marketing,"New York, NY",45 - 54,F,asian,Full time,4 to less than 6 years,1,4
+194,Senior Marketing Analyst,Gross,Ellen,495,Finance & Admin,Marketing,"New York, NY",35 - 44,F,white,Full time,2 to less than 4 years,1,3
+741,Marketing Analyst,Jones,James,495,Finance & Admin,Marketing,"New York, NY",18 - 24,M,white,Full time,less than 6 months,1,0
+369,Senior Marketing Analyst,Hartman,Dolores,495,Finance & Admin,Marketing,"New York, NY",55 - 64,F,white,Full time,1 to less than 2 years,1,2
+57,Manager of Compliance,Patel,Katherine,68,Engineering,Compliance,"Mountain View, CA",25 - 34,F,asian,Full time,4 to less than 6 years,1,4
+473,Compliance Analyst,Zavala,Daniel,57,Engineering,Compliance,"Mountain View, CA",45 - 54,M,hispanic,Full time,1 to less than 2 years,1,2
+483,Compliance Analyst,Beltran,Gordon,57,Engineering,Compliance,"Mountain View, CA",35 - 44,M,hispanic,Full time,1 to less than 2 years,1,2
+123,Compliance Analyst,Peterson,Kenneth,57,Engineering,Compliance,"Mountain View, CA",45 - 54,M,white,Full time,2 to less than 4 years,1,3
+760,Compliance Analyst,Garcia,Theodore,57,Engineering,Compliance,"Mountain View, CA",35 - 44,M,mixed_race,Full time,less than 6 months,1,0
+41,Manager of Compliance,Gregory,Gregory,68,Engineering,Compliance,"Mountain View, CA",35 - 44,M,white,Full time,4 to less than 6 years,1,4
+513,Compliance Analyst,Choi,Michael,41,Engineering,Compliance,"Mountain View, CA",35 - 44,M,asian,Full time,1 to less than 2 years,1,2
+115,Senior Compliance Analyst,Williams,Brandon,41,Engineering,Compliance,"Mountain View, CA",35 - 44,M,white,Full time,4 to less than 6 years,1,4
+604,Compliance Analyst,Chen,Christopher,41,Engineering,Compliance,"Mountain View, CA",25 - 34,M,asian,Full time,6 months to less than 1 year,1,1
+685,Loan Officer,Lucero,Irma,600,Loan Operations,VA Loans,"New York, NY",35 - 44,F,mixed_race,Part time,less than 6 months,1,0
+470,Loan Officer,Hughes,Brian,600,Loan Operations,VA Loans,"New York, NY",35 - 44,M,white,Part time,1 to less than 2 years,1,2
+237,Senior Loan Officer,Smith,Kristie,307,Loan Operations,South Lending,"Atlanta, GA",65+,F,hispanic,Full time,2 to less than 4 years,1,3
+151,Loan Officer,Hill,Claribel,183,Loan Operations,Midwest Lending,"Chicago, IL",25 - 34,F,mixed_race,Full time,2 to less than 4 years,1,3
+7,Senior Underwriter,Bailey,Kristopher,458,Finance & Admin,Underwriting,"Mountain View, CA",25 - 34,M,asian,Full time,4 to less than 6 years,1,4
+190,Designer,Wheeler,Stephanie,85,Product,User Experience / User Interface,"New York, NY",35 - 44,F,white,Full time,2 to less than 4 years,1,3
